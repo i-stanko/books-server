@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Any Empire",
+      "author": "Nate Powell",
+      "category": "Mature",
+      "isbn": 9781603090773
+    },
+    {
+      "id": 2,
+      "title": "Box",
+      "author": " Patrick Wirbeleit",
+      "category": "All Ages",
+      "isbn": 9781603094498
+    },
+    {
+      "id": 3,
+      "title": "Johnny Boo",
+      "author": "James Kochalka",
+      "category": "Young Readers",
+      "isbn": 9781603094764
+    }
+  ]
+}
